@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_0d4b88c9317a79bd8ae1c36a1cea0c521ef70cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_3a6b22937d05caef21e47b61a92b8c602c6640fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.6.5_893b96863f3a2ccc93e30c8314e78126c8bd2454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.2.2_d40887a290d54207ab1f68c0cc977ec6fb2c5de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.payumoney.sdkui\plug-n-play\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="179b5ab02f5f249358175c7c62a1a3e4a4dff591">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.payumoney.sdkui-plug-n-play-1.0.0_5e3e2b1ec25499bb5d4b314ff688b6bdb2764fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_e576290cd34f7ed9959749802ddab0a9a96b4c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_8eb25165a62ea5c2fa3c201c469138cd74ba02cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.payu.custombrowser\payu-custom-browser\6.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="feb035e98d4fef27ff2a6f45bbaac40c07a6596a">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.payu.custombrowser-payu-custom-browser-6.1.3_90b7df4ca8b6affa185d117f63a9ee78b666ec03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.14_9255701452788f3997b228b5cf683f76163015ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_2745740336d75a6d125420e07ad639f68d1d4116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRERNA\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_b1ac18f2d0eae73b66b53ed781ef6188b8f69e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.payumoney.graphics\asset-download-sdk\0.1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97e8b48d7874dad1ded66324f8a879c1c3b17172">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.payumoney.graphics-asset-download-sdk-0.1.9_3117297042384b18d7e183011081909f33c82fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.payumoney.core\payumoney-sdk\7.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c93ec2c2bacd3fc6a24530d6c0be4afdbde0ba3d">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.payumoney.core-payumoney-sdk-7.0.1_ac211fe3053a366236c933493b04a91386e1f7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRERNA\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.2_8f701434c52fff17a10df7e07da78d242d9766db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.payu.magicretry\magicretry\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="591e7c1eb05bda2bcee22d151402fd8d61ffeca9">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.payu.magicretry-magicretry-1.0.5_efba20eef0f71bf10fee17d41f3a85e8c0bdfcaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRERNA\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\gson-2.6.2_7a1179b1b2c8407df5524443368d27029fd06347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_006f56faa3f3bc1f09e8aa817de235cecaee13f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_34553965c448e08e1cdd96878352ebb24bbf6041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.github.aakira\expandable-layout\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cef25b344d6893e5e2d9b1ae38d180955e9d3ef">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.github.aakira-expandable-layout-1.6.0_ceb5dbdab535a2dd84188e542ace34a7507414a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.10\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.3.10_24106ff1a7153ec1efd0d93d89a7767c70b318e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_8dc0d24c549661bde96834a3806ed5215fe4f03a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_c11c9649744b29d406829b0ca5a50e36338f0546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.14\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="R:\AndroidCode\payumoney-new-sample-app-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.14_fdaf36cf2a784f41e90f99989a5b33520b522e07.jar" />
+    </item>
+
+</items>
